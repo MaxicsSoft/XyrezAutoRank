@@ -1,1 +1,1 @@
-Print('Down: .gg/https://discord.gg/BpzUKzY6Gq')
+Print('Down: .gg/BpzUKzY6Gq')
